@@ -1,0 +1,1 @@
+Developed a fine tuned complex predictor utilizing data science and machine learning algorithms to predict the servo motors and its profits.
